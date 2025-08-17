@@ -1,0 +1,5 @@
+resource_group_name   = "rg-demo"
+location              = "westeurope"
+storage_account_name  = "staccyourunique"
+container_name        = "artifacts"
+blob_name             = "tfcode.zip"
